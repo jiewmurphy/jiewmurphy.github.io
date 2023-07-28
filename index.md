@@ -1,4 +1,3 @@
-# wang jie
 <center>
      <h1>王杰</h1>
      <div>
