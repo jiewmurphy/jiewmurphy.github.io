@@ -1,6 +1,6 @@
 @import "{{ site.theme }}";
 
 
-h1 {
-    display:none
+.markdown-body>*:first-child {
+    display:none !important
 }
