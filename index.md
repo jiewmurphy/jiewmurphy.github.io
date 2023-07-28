@@ -1,4 +1,4 @@
- <center>
+<center>
      <h1>王杰</h1>
      <div>
          <span>
@@ -16,9 +16,9 @@
              <a href="https://scholar.google.com/citations?user=YTeQmzEAAAAJ&hl=en">学术论文</a>
          </span>
      </div>
- </center>
+</center>
 
- ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
+## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
 
  - 女，1988 年出生
  - 求职意向：程序分析专家
