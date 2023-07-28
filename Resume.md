@@ -1,23 +1,5 @@
  王杰
 
- <center>
-     <div>
-         <span>
-             <img src="assets/phone-solid.svg" width="18px">
-             18610652570
-         </span>
-         ·
-         <span>
-             <img src="assets/envelope-solid.svg" width="18px">
-             jiewmurphy@163.com
-         </span>
-         ·
-         <span>
-             <img src="assets/rss-solid.svg" width="18px">
-             <a href="https://scholar.google.com/citations?user=YTeQmzEAAAAJ&hl=en">学术论文</a>
-         </span>
-     </div>
- </center>
 
  ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
 
