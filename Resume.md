@@ -20,7 +20,7 @@
 
 ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
 
- - 女，1988 年出生
+ - 女，1988 年
  - 求职意向：程序分析专家
  - 意向工作地：北京
  - 工作经验：10 年
